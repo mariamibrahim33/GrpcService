@@ -1,0 +1,17 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "Hash": "P3hRMq5Wdgw0ptgSDJKZl3Bt5KSX5/98mYEtH018B80=",
+  "Source": "SOAPService",
+  "BasePath": "_content/SOAPService",
+=======
+  "Hash": "KbcZTjDCJAjMKpNbbAapLzdQLtye8ig8nXetVfu6YsA=",
+  "Source": "GrpcService",
+  "BasePath": "_content/GrpcService",
+>>>>>>> e0d8d34 (Initial commit)
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
